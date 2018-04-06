@@ -16,6 +16,7 @@ public class Praktik02Aksi {
        data_penduduk.tgl_lahir="18-11-1996";
        data_penduduk.tl="Banjarbaru";
        
+       data_penduduk.cetakhasil();
        
     }
 }
