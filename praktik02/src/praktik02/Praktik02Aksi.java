@@ -13,7 +13,7 @@ public class Praktik02Aksi {
        data_penduduk.nik=630105;
        data_penduduk.profesi="mahasiswa";
        data_penduduk.status="Belum Kawin";
-       data_penduduk.tgl_lahir="18-11-1996";
+       data_penduduk.tgl_lahir=18111996;
        data_penduduk.tl="Banjarbaru";
        
        data_penduduk.cetakhasil();
