@@ -10,7 +10,7 @@ public class Praktik02Aksi {
        data_penduduk.alamat="Komp.Wengga kuda";
        data_penduduk.gd="B";
        data_penduduk.jk="Wanita";
-       data_penduduk.nik="6301055811960001";
+       data_penduduk.nik=630105;
        data_penduduk.profesi="mahasiswa";
        data_penduduk.status="Belum Kawin";
        data_penduduk.tgl_lahir="18-11-1996";
